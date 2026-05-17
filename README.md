@@ -1,4 +1,4 @@
-# Java Menu Driven Banking Application with JDBC
+# Banking Management
 
 This project is a Java-based software application that enables users to perform various banking operations through a menu-driven interface. It utilizes the JDBC (Java Database Connectivity) API for seamless interaction with a database.
 
